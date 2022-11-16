@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(246, 239, 239);
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .box1 {
+    background-color: rgb(225, 249, 146);
+    width: 1200px;
+    height: 500px;
+    padding-top: 10px;
+    margin: 0px 0px 0px 0px;
+  }
+  .side {
+    padding-right: 5px;
+    float: left;
+  }
+  .btn {
+    background-color: rgba(48, 23, 23, 0.895);
+    color: rgb(238, 243, 247);
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
